@@ -49,3 +49,6 @@ Physical Uplink Shared Channel (PUSCH).
   autoencoders to learn compact semantic representations and jointly optimize
   waveforms and constellations for target tasks, including Sub-THz bands and
   extreme-data-rate services.
+
+## References
+1. https://www.sharetechnote.com/html/6G/6G_TDoc_AI_ML.html
