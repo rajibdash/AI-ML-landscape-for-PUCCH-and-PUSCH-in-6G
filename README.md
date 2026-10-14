@@ -1,4 +1,4 @@
-# AI-ML-landscape-for-PUCCH-and-PUSCH-in-6G
+# AI/ML landscape for PUCCH and PUSCH in 6G
 
 Investigation and research into evolving the AI/ML landscape for uplink channels
 in 6G, with a focus on the Physical Uplink Control Channel (PUCCH) and
